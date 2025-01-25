@@ -1,5 +1,7 @@
 # Exercise-01d-Inky-Misc
 
-# Angela Tan
+# Your Name
+Angela Tan
 
-# angelat8
+# Your Github username
+angelat8
